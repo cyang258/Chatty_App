@@ -1,16 +1,12 @@
 
+##Chatty App Project
+
+A real time Chatting App, using React for the user interface and Websocket for real time chatting.
+
 
 ### Usage
 
-Clone the boilerplate and create your own git repo.
-
-```
-git clone git@github.com:lighthouse-labs/react-simple-boilerplate.git
-cd react-simple-boilerplate
-git remote rm origin
-git remote add origin [YOUR NEW REPOSITORY]
-# Manually update your package.json file
-```
+Fork project from https://github.com/cyang258/Chatty_App
 
 Install the dependencies and start the server.
 
@@ -22,6 +18,14 @@ open http://localhost:3000
 For the websocket server,
 npm install
 node server.js
+
+### Screenshots
+
+!["Screenshot of Join the Chat as Anonymous."](https://github.com/cyang258/Chatty_App/blob/master/docs/Join-the-Chat-as-Anonymous.png)
+
+!["Screenshot of Change your current name."](https://github.com/cyang258/Chatty_App/blob/master/docs/Change-your-current-name.png)
+
+!["Screenshot of Join the chat with certain name."](https://github.com/cyang258/Chatty_App/blob/master/docs/Join-the-chat-with-certain-name.png)
 
 ### Dependencies
 
